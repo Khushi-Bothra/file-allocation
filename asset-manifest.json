@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/file-allocation/static/css/main.b615f7b0.css",
+    "main.js": "/file-allocation/static/js/main.bcafbc23.js",
+    "index.html": "/file-allocation/index.html",
+    "main.b615f7b0.css.map": "/file-allocation/static/css/main.b615f7b0.css.map",
+    "main.bcafbc23.js.map": "/file-allocation/static/js/main.bcafbc23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b615f7b0.css",
+    "static/js/main.bcafbc23.js"
+  ]
+}
